@@ -9,13 +9,17 @@ Esta seção apresenta uma série de métodos e ferramentas estratégicas que aj
 # 1. Blueprints (Service Blueprinting)
    - Um mapeamento visual que detalha o processo completo de um serviço, abrangendo as interações do usuário, atividades internas e pontos de contato. Ajuda a identificar oportunidades de melhoria e otimização do fluxo de serviço.
    https://www.nngroup.com/articles/service-blueprints-definition/
-   ![alt text](image.png)
+   ![service-blueprints](service-blueprints.png)
 
 # 2. Mapa de Jornada do Usuário (User Journey Map)
    - Diagrama que ilustra a experiência do usuário ao interagir com o produto, desde o início até a conclusão. Detalha pontos de contato, emoções e desafios, ajudando a criar uma experiência mais fluida e satisfatória.
+   https://www.woopra.com/blog/customer-journey-map-examples
+   ![customer-journey-map-examples](customer-journey-map-examples.png)
 
 # 3. Ecossistema
    - Representa todos os elementos, sistemas e atores envolvidos que interagem com o produto. Ajuda a entender como o produto se encaixa no contexto maior e a identificar oportunidades de integração e crescimento.
+   https://www.researchgate.net/figure/Figura-3-Atores-do-Ecossistema-de-Inovacao_fig1_352908536
+   ![Ecossistema-de-Inovacao](Ecossistema-de-Inovacao.png)
 
 # 4. Golden Path
    - Define o caminho ideal que o usuário deve seguir ao usar o produto. Foca nas interações que geram o maior valor, priorizando funcionalidades chave para otimizar a experiência do usuário.
